@@ -37,5 +37,6 @@ Make sure Python is installed, then install the required libraries:
 pip install opencv-python numpy matplotlib
 
 ---
+
 ## Prepared by
 **FAISAL ALZAHRANI**
