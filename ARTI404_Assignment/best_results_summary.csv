@@ -1,0 +1,6 @@
+Image,Noise Type,Spatial Best Parameters,Spatial PSNR,Spatial SSIM,Frequency Best Parameters,Frequency PSNR,Frequency SSIM
+camera,Gaussian noise,"median, kernel=9x9",24.40654752859262,0.6468731401215179,"Gaussian LPF, cutoff=40",25.037366943365633,0.6879176196260265
+coins,Salt-and-pepper / impulse noise,"median, kernel=3x3",28.074201287036054,0.8535910185183978,"Gaussian LPF, cutoff=40",23.383997001630284,0.574793686611193
+text,Salt-and-pepper noise,"median, kernel=3x3",32.0093123397973,0.904323594397607,"Gaussian LPF, cutoff=20",25.589060573585947,0.6523755486943567
+rice,Salt-and-pepper noise,"median, kernel=7x7",23.335816813576432,0.5659160260847889,"Gaussian LPF, cutoff=40",24.135748170119207,0.6167531227248255
+astronaut,Colored salt-and-pepper / impulse noise,"median, kernel=3x3",30.317166190562745,0.9374745889321913,"Gaussian LPF, cutoff=40",22.33243189232678,0.6044371438445002
